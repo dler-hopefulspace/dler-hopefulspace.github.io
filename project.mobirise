@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "levelm4",
       "title": "LevelM4",
@@ -57,7 +57,7 @@
     "versionPublish": "5.5.2",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo_1.svg",
-    "mbrsiteDomain": "yz5k3w4rup",
+    "mbrsiteDomain": "bzanfhr54q",
     "cssOptimize": true,
     "lazyLoad": false,
     "robotsSwitcher": true,
@@ -73,7 +73,7 @@
     "publishChangesOnly": false,
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-15595EJM64\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-15595EJM64');\n</script>",
     "chatbutton": {},
-    "global_after_body": "\n    \n    <script src=\"https://form.jotform.com/static/feedback2.js\" type=\"text/javascript\">\n      new JotformFeedback({\n        formId: \"212873604078459\",\n        buttonText: \"填寫訂購單\",\n        base: \"https://form.jotform.com/\",\n        background: \"#F59202\",\n        fontColor: \"#FFFFFF\",\n        buttonSide: \"left\",\n        buttonAlign: \"center\",\n        type: 0,\n        width: 700,\n        height: 500,\n        isCardForm: false\n      });\n    </script>"
+    "global_after_body": "\n    \n    <script src=\"https://form.jotform.com/static/feedback2.js\" type=\"text/javascript\">\n      new JotformFeedback({\n        formId: \"212873604078459\",\n        buttonText: \"填寫訂購單\",\n        base: \"https://form.jotform.com/\",\n        background: \"#F59202\",\n        fontColor: \"#FFFFFF\",\n        buttonSide: \"bottom\",\n        buttonAlign: \"bottom\",\n        type: 0,\n        width: 700,\n        height: 500,\n        isCardForm: false\n      });\n    </script>"
   },
   "pages": {
     "index.html": {
